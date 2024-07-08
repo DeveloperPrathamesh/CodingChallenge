@@ -30,7 +30,7 @@ app.use(bodyparser.json());
 // getData();
 
 app.get('/get',async(req,res)=>{
-    let
+    
 })
 
 app.listen(port,(err)=>{
